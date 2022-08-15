@@ -27,7 +27,7 @@ public class WeatherForecastController : ControllerBase
     [HttpGet("{id}")]
     public string Get(int id )
     {
-        return "Something else";
+        return "Sarn";
         
     }
 }
